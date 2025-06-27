@@ -62,13 +62,16 @@ Project Workflow
 How to Run the Project
 
 1.cloning the repository
-git clone https://github.com/yourusername/redbus-project.git
+
+git clone https://github.com/MukilaDevi290/Redbus
 cd redbus-project
 
 2.Run the script
+
 python testing.ipynb
 
 3.Run the streamlit app
+
 streamlit run stream.py
 
 
