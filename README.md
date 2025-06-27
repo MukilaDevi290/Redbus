@@ -64,7 +64,6 @@ How to Run the Project
 1.cloning the repository
 
 git clone https://github.com/MukilaDevi290/Redbus
-cd redbus-project
 
 2.Run the script
 
